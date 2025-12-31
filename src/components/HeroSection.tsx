@@ -10,16 +10,21 @@ const HeroSection = () => {
         </div>
 
         {/* Main heading - Her name */}
-        <h1 className="font-heading text-5xl md:text-6xl lg:text-7xl text-foreground mb-6 section-fade-in-delayed leading-tight">
-          For You
+        <h1 className="font-heading text-5xl md:text-6xl lg:text-7xl text-foreground mb-4 section-fade-in-delayed leading-tight">
+          Neelakshi
         </h1>
+
+        {/* Nickname */}
+        <p className="font-body text-lg md:text-xl text-rose font-light italic mb-6 section-fade-in-delayed">
+          My Bittuuu 💕
+        </p>
 
         {/* Subtle divider */}
         <div className="w-16 h-px bg-rose/40 mx-auto mb-6 section-fade-in-delayed" />
 
         {/* Subtitle */}
         <p className="font-body text-lg md:text-xl text-muted-foreground font-light leading-relaxed section-fade-in-delayed-2">
-          A small New Year gift, made with love
+          The last message of 2024 & first of 2025
         </p>
 
         {/* Scroll indicator */}
