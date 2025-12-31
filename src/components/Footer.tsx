@@ -17,7 +17,7 @@ const Footer = () => {
 
         {/* Year */}
         <p className="font-body text-xs text-muted-foreground/60 mt-4 tracking-widest">
-          2025
+          2025 → 2026 ♥
         </p>
       </div>
     </footer>

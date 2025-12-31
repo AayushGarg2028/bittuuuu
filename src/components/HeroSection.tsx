@@ -5,7 +5,7 @@ const HeroSection = () => {
         {/* Decorative element */}
         <div className="mb-8 section-fade-in">
           <span className="text-rose text-sm tracking-[0.3em] uppercase font-body font-light">
-            ✦ 2025 ✦
+            ♥ 2025 → 2026 ♥
           </span>
         </div>
 
@@ -24,7 +24,7 @@ const HeroSection = () => {
 
         {/* Subtitle */}
         <p className="font-body text-lg md:text-xl text-muted-foreground font-light leading-relaxed section-fade-in-delayed-2">
-          The last message of 2024 & first of 2025
+          The last message of 2025 & first of 2026 💕
         </p>
 
         {/* Scroll indicator */}
