@@ -8,19 +8,15 @@ interface PhotoItem {
 const photos: PhotoItem[] = [
   {
     src: "/gallery-1.jpg",
-    alt: "A cherished moment",
+    alt: "Beautiful memories with friends",
   },
   {
     src: "/gallery-2.jpg",
-    alt: "Beautiful memory",
+    alt: "A beautiful moment",
   },
   {
     src: "/gallery-3.jpg",
-    alt: "Special times",
-  },
-  {
-    src: "/gallery-4.jpg",
-    alt: "Together",
+    alt: "That beautiful smile",
   },
 ];
 
